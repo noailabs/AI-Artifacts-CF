@@ -1,4 +1,4 @@
-## Project Requirements Document (PRD): Cognitive Cybersecurity Framework
+## Project Requirements Document (PRD): AI Artifacts Cybersecurity Framework
 
 **Authors:** noailabs
 **Version:** 0.0.1
