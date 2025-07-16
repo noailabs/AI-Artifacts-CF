@@ -10,3 +10,7 @@ Specs for Agentic tools
 ln -s AGENTS.md CLAUDE.md
 ln -s AGENTS.md GEMINI.md
 ```
+
+### ARTIFACTS
+Framework artifacts  
+
